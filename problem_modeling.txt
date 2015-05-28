@@ -1,0 +1,6 @@
+sum,0000,subtract,0000,divide,0000,multiply,0000,sqrt,0000,power,0000,mod,0000 for each number
+
+(7 * 5) = 35 for the three numbers
+
+sum 8 + subtract 8
+1 - 8,3,0 = 34
